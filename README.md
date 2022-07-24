@@ -1,3 +1,3 @@
 # Digital-Systems-VHDL
 
-Lab sessions for the digital system course
+Lab sessions for the advanced digital system course. All the programs were written in VHDL.
